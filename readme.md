@@ -1,6 +1,7 @@
 # 📅 Sistema de Gerenciamento de Consultas Odontológicas
 
-Este projeto é um sistema simples de gerenciamento de consultas odontológicas, desenvolvido em Python, com uso de SQLite para armazenamento de dados e Pandas para análise. O foco é simular o funcionamento de uma agenda de clínica odontológica, permitindo a criação, consulta e análise de dados de consultas.
+Este projeto é um sistema simples de gerenciamento de consultas odontológicas, desenvolvido em Python, com uso de SQLite para armazenamento de dados e Pandas para análise. O foco é simular o funcionamento de uma agenda de clínica odontológica, permitindo a criação, consulta e análise de dados de consultas, afim de prestar o melhor comportamento ao nosso usuário, refinamos os usos dos dados de consultas e trouxemos mudanças que fazem mais sentido no contexto de um verdadeiro consultório, com informações e leituras relvantes para que possam lidar melhor com seus pacientes, fornecendo informações mais precisas.
+
 
 ---
 
