@@ -20,12 +20,9 @@ Este projeto é um sistema simples de gerenciamento de consultas odontológicas,
 
 ## 🚀 Tecnologias Utilizadas
 
-- **Python** (3.8+)
+- **Python** 
 - **SQLite3** (Banco de Dados)
 - **Pandas** (Análise de Dados)
 - **Matplotlib** (Visualização de Dados)
 
 ---
-
-## 🗂️ Estrutura do Projeto
-
